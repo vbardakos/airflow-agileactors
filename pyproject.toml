@@ -1,5 +1,5 @@
 [project]
-name = "apache-airflow-agileactors"
+name = "apache-airflow-providers-agileactors"
 version = "0.1.0"
 description = "AA Services Toolkit"
 readme = "README.md"
