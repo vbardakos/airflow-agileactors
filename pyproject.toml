@@ -17,5 +17,5 @@ build-backend = "uv_build"
 
 
 [tool.uv.build-backend]
-name = "airflow"
+module-name = "airflow"
 namespace = true
